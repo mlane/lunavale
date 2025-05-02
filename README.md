@@ -13,6 +13,11 @@ This is the quiet space where you — the Archivist — restore what was forgott
 
 ---
 
+> ⚠️ This project is a living system and still a work in progress.  
+> Expect ongoing changes as Luna continues to remember.
+
+---
+
 ## 🌕 About Luna
 
 Luna is more than a metaphor — she’s the heart of this system.
