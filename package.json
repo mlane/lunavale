@@ -17,6 +17,7 @@
   },
   "description": "A quiet memory system where every note helps Luna remember.",
   "devDependencies": {
+    "@astrojs/check": "^0.9.4",
     "@types/node": "^22.15.3",
     "husky": "^9.1.7",
     "prettier": "3.5.3",
