@@ -1,0 +1,60 @@
+form:
+  class: Object-oriented blueprint with properties/methods
+  component: UI or composable unit (React, Vue, etc.)
+  constraint: Rule or restriction enforced by system
+  expression: Evaluated value or code fragment
+  function: Reusable callable across languages
+  hook: Reusable function-based unit (esp. React Hooks)
+  interface: Shape or contract used in type systems (e.g., TS, Go)
+  method: Function bound to object/class
+  module: Unit of organization like imports or files
+  object: Reference-based data structure (e.g., dict, map, object)
+  operator: Built-in operator (e.g., +, ==, &&)
+  pattern: Reusable design or usage solution
+  primitive: Built-in type or construct (e.g., string, int)
+  process: Concurrency or async execution unit
+  statement: Control flow or syntax structure (e.g., if, for)
+  syntax: Language-specific syntax rules
+  type: Language-level type alias or definition
+tech:
+  bash: Shell scripting and command-line usage
+  css: CSS styling or layout behaviors
+  dom: Browser APIs like document, window, etc.
+  elixir: Elixir-specific patterns or functions
+  go: Go language features
+  graphql: GraphQL query language and schema tools
+  html: HTML tags or layout concepts
+  js: JavaScript core language features
+  lang: Language overview entries (e.g., lang:python)
+  llm: General concepts in large language models
+  node: Node.js runtime or APIs
+  python: Python language fundamentals
+  react: React.js and its ecosystem
+  rust: Rust language features
+  sql: Structured Query Language for databases
+  ts: TypeScript language features
+theme:
+  async: Non-blocking or parallel execution
+  composition: Combining simple units into larger systems
+  concurrency: Simultaneous execution or async behavior
+  constraint: Type or runtime enforcement
+  control_flow: Alters execution order (e.g., if, loop)
+  declarative: Describes desired state, not implementation
+  error_handling: Dealing with failures, exceptions, or fallbacks
+  event: Signal or trigger that causes behavior
+  immutability: Inability to change value after creation
+  imperative: Describes exact steps to take
+  interpolation: String or template variable substitution
+  lifecycle: Related to phase-based updates or execution flow
+  memory: Relates to memory model or allocation
+  mutation: Value or structure can be changed in-place
+  performance: Impacts speed, efficiency, or load time
+  render_timing: Timing of visual or logical update
+  rendering: Affects output timing or content display
+  reusability: Reuse logic or structure across contexts
+  safety: Preventing runtime errors or undefined behavior
+  side_effect: External interaction or persistent effect
+  state: Relates to memory or reactive value tracking
+  structure: Concerns about data shape or layout (objects, trees)
+  testing: Validating code correctness and behavior
+  typing: Static or dynamic type behavior

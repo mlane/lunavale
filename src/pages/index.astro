@@ -1,0 +1,21 @@
+---
+import '../global.css'
+import { getNotes } from '../content/contentUtils'
+import { Search } from '../components/Search'
+
+const notes = await getNotes()
+---
+
+<html lang='en'>
+  <head>
+    <meta charset='utf-8' />
+    <link rel='icon' type='image/ico' href='/favicon.ico' />
+    <meta name='viewport' content='width=device-width' />
+    <meta name='generator' content={Astro.generator} />
+    <title>LunaVale</title>
+  </head>
+  <body>
+    <h1 class='text-3xl'>LunaVale</h1>
+    <Search notes={notes} client:load />
+  </body>
+</html>
